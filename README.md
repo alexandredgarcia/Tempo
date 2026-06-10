@@ -61,7 +61,7 @@ Com o ambiente configurado, execute o arquivo Python:
 python api.py
 ```
 ---
-##📈 Próximos Passos (Melhorias Futuras)
+#📈 Próximos Passos (Melhorias Futuras)
 
 Como parte da minha evolução na trilha de aprendizado em Python, pretendo implementar as seguintes melhorias neste projeto:
 
@@ -70,5 +70,5 @@ Como parte da minha evolução na trilha de aprendizado em Python, pretendo impl
 [ ] Interatividade: Permitir que o usuário digite o nome de qualquer cidade através do terminal usando input().
 
 [ ] Interface Gráfica (GUI) / Web: Criar uma tela visual utilizando Tkinter ou um dashboard web simples com Streamlit.
-
+---
 💡 Este projeto faz parte do meu portfólio de estudos para transição de carreira e ingresso no mercado de desenvolvimento Python
