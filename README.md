@@ -59,6 +59,7 @@ Com o ambiente configurado, execute o arquivo Python:
 
 Bash
 python api.py
+```
 
 ---
 📈 Próximos Passos (Melhorias Futuras)
