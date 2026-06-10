@@ -1,6 +1,6 @@
 # Tempo
-Criação repositório Tempo
-### 📝 App utilizando API externa`
+
+### 📝 App utilizando API externa
 
 # 🌤️ Consulta de Clima com Python
 
