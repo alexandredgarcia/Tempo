@@ -71,4 +71,9 @@ Como parte da minha evolução na trilha de aprendizado em Python, pretendo impl
 
 - Interface Gráfica (GUI) / Web: Criar uma tela visual utilizando Tkinter ou um dashboard web simples com Streamlit.
 ---
-💡 Este projeto faz parte do meu portfólio de estudos para transição de carreira e ingresso no mercado de desenvolvimento Python
+## 💡 Este projeto faz parte do meu portfólio de estudos para transição de carreira e ingresso no mercado de desenvolvimento Python
+---
+🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
+
+📧 alexandredgarcia23@gmail.com
+   
