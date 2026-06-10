@@ -29,7 +29,7 @@ Antes de começar, você precisará ter o Python instalado em sua máquina. Alé
 
 ```bash
 pip install requests
-
+```
 ### 2. Clonando o Repositório
 
 Abra o seu terminal e execute o comando abaixo para clonar o projeto:
