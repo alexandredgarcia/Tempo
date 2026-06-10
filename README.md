@@ -62,7 +62,8 @@ python api.py
 ```
 
 ---
-📈 Próximos Passos (Melhorias Futuras)
+
+##📈 Próximos Passos (Melhorias Futuras)
 
 Como parte da minha evolução na trilha de aprendizado em Python, pretendo implementar as seguintes melhorias neste projeto:
 
