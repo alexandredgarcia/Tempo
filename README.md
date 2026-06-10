@@ -30,14 +30,14 @@ Antes de começar, você precisará ter o Python instalado em sua máquina. Alé
 ```bash
 pip install requests
 
-###2.Clonando o Repositório
+### 2.Clonando o Repositório
 Abra o seu terminal e execute o comando abaixo para clonar o projeto:
 
 ```bash
 git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
 cd nome-do-repositorio
 
-###3. Configurando a Chave de API
+### 3. Configurando a Chave de API
 Para que o script funcione, é necessária uma chave de acesso (API Key) do OpenWeatherMap.
 
 Cadastre-se gratuitamente em OpenWeatherMap.
@@ -49,7 +49,7 @@ Substitua o valor da variável api_key no arquivo principal pelo seu token pesso
 Python
 api_key = 'SUA_CHAVE_AQUI'
 
-###4. Rodando o Script
+### 4. Rodando o Script
 Com o ambiente configurado, execute o arquivo Python:
 
 Bash
