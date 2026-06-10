@@ -57,12 +57,10 @@ api_key = 'SUA_CHAVE_AQUI'
 ### 4. Rodando o Script
 Com o ambiente configurado, execute o arquivo Python:
 
-Bash
+```Bash
 python api.py
 ```
-
 ---
-
 ##📈 Próximos Passos (Melhorias Futuras)
 
 Como parte da minha evolução na trilha de aprendizado em Python, pretendo implementar as seguintes melhorias neste projeto:
